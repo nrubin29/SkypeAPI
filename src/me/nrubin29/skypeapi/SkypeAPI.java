@@ -1,4 +1,4 @@
-package me.pogostick29.skypeapi;
+package me.nrubin29.skypeapi;
 
 import java.awt.*;
 import java.net.URI;
