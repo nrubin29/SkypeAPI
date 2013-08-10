@@ -4,12 +4,6 @@ public class Example {
 
     public static void main(String[] args) {
 
-        /* Open Skype and get focus. */
-
-        SkypeAPI.open();
-
-        /* * * * */
-
         /* Get a Skype user. */
 
         User user = SkypeAPI.getUser("name");
